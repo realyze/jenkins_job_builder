@@ -1,4 +1,4 @@
-jenkins_job_builder
+Jenkins Job Builder
 ===================
 
 App that copies a template job and replaces tokens.
